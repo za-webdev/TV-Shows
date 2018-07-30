@@ -1,0 +1,53 @@
+
+.container{
+	margin-left:20%;
+	margin-top:10%;
+}
+
+.errors{
+	color:red;
+}
+
+.wrapper-2{
+	margin-left:5%;
+}
+
+.subtitle {
+	color:#00d1b2;
+}
+
+.dashboard{
+	margin-left:25%;
+}
+
+.hero-body{
+	display:flex;
+}
+
+.table{
+	border-style: ridge;
+    border-color: coral;
+    border-width: 7px;
+}
+
+.rating-table{
+	margin-left:30%;
+}
+
+.center{
+	margin-left:10%;
+}
+.main-form{
+	margin-left:30%;
+	width:50%;
+}
+
+fieldset{
+	width:40%;
+	
+}
+
+.outter-box{
+	margin-left:30%;
+	margin-top:10%;
+}
